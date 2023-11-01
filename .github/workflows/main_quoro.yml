@@ -64,4 +64,4 @@ jobs:
         with:
           app-name: 'quoro'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_8F263897EE31421090A70E14BC11EAD1 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_BF65652C81C44690BA572676EB4152CC }}
